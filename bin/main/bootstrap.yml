@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: wappon-system
-    
-server:  port: 7777 
